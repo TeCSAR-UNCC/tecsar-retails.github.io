@@ -1,45 +1,14 @@
 ---
-layout: default
-title: TeCSAR-RetailS
+layout: splash
+title: "TeCSAR Lab (UNCC)"
+excerpt: "We build datasets and systems for video understanding, smart retail, and anomaly detection."
 ---
 
-# TeCSAR-RetailS Dataset
+## Datasets
+- **[RetailS](https://github.com/TeCSAR-UNCC/RetailS)** — Real-world retail store dataset for ________.
+- **[HuVAD](https://github.com/TeCSAR-UNCC/HuVAD)** — Human-centric video anomaly detection dataset for ________.
+- **[CHAD](https://github.com/TeCSAR-UNCC/CHAD)** — ________ dataset for ________.
 
-A real-world retail store dataset for ________ (e.g., shoplifting detection / anomaly detection).
-
-**Dataset / Code:** https://github.com/TeCSAR-UNCC/RetailS  
-**Paper:** (link)  
-**Download:** (link)  
-
----
-
-## Introduction
-Write 1–2 paragraphs about what the dataset is and why it matters.
-
-## Samples
-![Samples](assets/fig1.jpg)
-
-## Dataset details
-- Cameras:
-- Duration:
-- FPS / resolution:
-- Annotation types:
-
-## Download
-- Link 1
-- Link 2
-
-## Data format
-Describe folder structure and annotation schema.
-
-## Contact
-
-syao@charlotte.edu
-
-## Citation
-```bibtex
-@misc{tecsar_retails_2026,
-  title={TeCSAR-RetailS: ...},
-  author={...},
-  year={2026}
-}
+## Quick Links
+- GitHub Org: https://github.com/TeCSAR-UNCC
+- Contact: (add email or lab page)
